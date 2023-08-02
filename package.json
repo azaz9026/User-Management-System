@@ -20,6 +20,9 @@
     "method-override": "^3.0.0",
     "mongoose": "^7.4.1"
   },
+  "engine":{ 
+    "node" : ">=14.20.1"
+  },
   "devDependencies": {
     "nodemon": "^2.0.22"
   }
